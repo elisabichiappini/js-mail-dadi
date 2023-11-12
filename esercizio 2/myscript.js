@@ -1,3 +1,6 @@
+// restizioni codice js
+'use strict';
+
 // Programma2:
 
 // ## Gioco dei dadi

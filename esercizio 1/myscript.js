@@ -1,3 +1,6 @@
+// restizioni codice js
+'use strict';
+
 // Programma1:
 
 // ## Mail
