@@ -10,8 +10,6 @@
 // -- ALTRIMENTI GiocatoreUtente valoreGioco < GiocatoreUtente valoreGioco allora stampo ha vinto GiocatoreUtente;
 
 const btnRandom = document.querySelector('button');
-const min = 1;
-const max = 6;
 
 btnRandom.addEventListener('click',
 function () {
